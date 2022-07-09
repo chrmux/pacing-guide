@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pacing-guide/static/css/main.073c9b0a.css",
+    "main.js": "/pacing-guide/static/js/main.7d01103d.js",
+    "static/js/787.190678e4.chunk.js": "/pacing-guide/static/js/787.190678e4.chunk.js",
+    "static/media/logo.svg": "/pacing-guide/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pacing-guide/index.html",
+    "main.073c9b0a.css.map": "/pacing-guide/static/css/main.073c9b0a.css.map",
+    "main.7d01103d.js.map": "/pacing-guide/static/js/main.7d01103d.js.map",
+    "787.190678e4.chunk.js.map": "/pacing-guide/static/js/787.190678e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7d01103d.js"
+  ]
+}
